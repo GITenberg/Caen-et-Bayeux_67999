@@ -1,0 +1,26 @@
+_repo: Caen-et-Bayeux_67999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prentout, Henri
+    gutenberg_agent_id: '54566'
+    url: http://www.gutenberg.org/2009/agents/54566
+description: ''
+gutenberg_issued: '2022-05-06'
+identifiers:
+  gutenberg: '67999'
+language: fr
+pgterms:marc904: https://archive.org/details/caenetbayeux00prenuoft/page/n5/mode/2up
+pgterms:marc905: 20220504130113prentout
+pgterms:marc906: '1909'
+pgterms:marc907: FR
+production_note: J.-M. Mariot from files generously made available by the John P.
+  Robarts Research Library (University of Toronto).
+publication_note: France :H. Laurens,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Caen et Bayeux
+url: http://www.gutenberg.org/ebooks/67999
